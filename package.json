@@ -1,0 +1,12 @@
+{
+  "name": "test-coverage-linter",
+  "version": "1.0.0",
+  "description": "Linter to check for delta percentage decrease of test files",
+  "main": "index.js",
+  "author": "Blake Yoder",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "glob": "^7.1.4"
+  }
+}
